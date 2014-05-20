@@ -1,4 +1,6 @@
 petropredict.github.io
 ======================
 
-Homepage for PetroPredict
+Static homepage for PetroPredict Inc.
+
+Copyright, All Rights Reserved
